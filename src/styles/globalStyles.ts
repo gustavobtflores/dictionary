@@ -24,7 +24,7 @@ input,
 textarea,
 select,
 button {
-  font: 400 1rem;
+  font: 400 1rem inherit;
 }
 
 button {
